@@ -1,2 +1,0 @@
-# TestVanilka
-Created with CodeSandbox
